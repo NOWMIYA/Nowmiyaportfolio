@@ -1,0 +1,6 @@
+@echo off
+echo Starting Nowmiya J. Portfolio Preview...
+echo Opening index.html in your default web browser...
+start "" "%~dp0index.html"
+echo Portfolio launched successfully!
+pause
